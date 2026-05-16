@@ -1,10 +1,10 @@
-# Olá, eu sou o José Gabriel 👋
+# Olá, Me chamo José Gabriel 👋
 
 ### 👨‍💻 Sobre Mim
 Estudante de **Análise e Desenvolvimento de Sistemas (ADS)** focado em desenvolvimento Back-end e arquitetura de software. Sou entusiasta do ecossistema Linux e gosto de criar soluções eficientes e bem estruturadas, aplicando as melhores práticas de programação.
 
-- 🎓 Cursando Tecnologia em Análise e Desenvolvimento de Sistemas (UNAMA)
-- 🐧 Usuário diário de Linux Mint 
+- 🎓 Cursando Tecnologia em Análise e Desenvolvimento de Sistemas
+- 🐧 Usuário de Linux 
 - 🚀 Buscando oportunidades de Estágio na área de Tecnologia
 
 ---
@@ -19,7 +19,7 @@ Estudante de **Análise e Desenvolvimento de Sistemas (ADS)** focado em desenvol
 
 ### 📂 Projetos em Destaque
 
-* **[Sistema de Gerenciamento Bancário](SEU_LINK_DO_REPOSITORIO_AQUI)**: Aplicação robusta em Java desenvolvida via terminal para simulação de operações financeiras, aplicando conceitos de POO e manipulação de coleções.
+* **[Sistema de Gerenciamento Bancário](SEU_LINK_DO_REPOSITORIO_AQUI)**: Aplicação de Java desenvolvida para ir atualizando conforme meus conhecimentos, feita com base em sistemas bancários.
 * **[Wiki Subway Surfers](SEU_LINK_DO_REPOSITORIO_AQUI)**: Enciclopédia visual e informativa sobre o jogo, estruturada de forma semântica com HTML5 e CSS3 customizado.
 
 ---
