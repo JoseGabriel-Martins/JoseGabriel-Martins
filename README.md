@@ -32,7 +32,7 @@ Estudante de Análise e Desenvolvimento de Sistemas (ADS) com foco em desenvolvi
 - 🚀 **[Sistema de Gerenciamento Bancário](https://github.com/JoseGabriel-Martins/Conta-bancaria)**  
 Aplicação desenvolvida em Java com foco em lógica de negócios bancários, manipulação de coleções e utilização da API Date/Time.
 
-- 🎮 **[Wiki Subway Surfers](COLOQUE_O_LINK_AQUI)**  
+- 🎮 **[Wiki Subway Surfers](https://github.com/JoseGabriel-Martins/site-subway-surfers)**  
 Projeto front-end inspirado no jogo Subway Surfers, utilizando HTML5 e CSS3 com foco em estruturação semântica e interface visual.
 
 ---
