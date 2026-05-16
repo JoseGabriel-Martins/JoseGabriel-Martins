@@ -30,9 +30,4 @@ Estudante de **Análise e Desenvolvimento de Sistemas (ADS)** focado em desenvol
 
 ---
 
-### 📊 Estatísticas do GitHub
-
-<p align="left">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=JoseGabriel-Martins&show_icons=true&theme=dark&include_all_commits=true&count_private=true" />
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=JoseGabriel-Martins&layout=compact&langs_count=7&theme=dark" />
-</p>
+<img height="180em" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=JoseGabriel-Martins&layout=compact&theme=github_dark"/>
