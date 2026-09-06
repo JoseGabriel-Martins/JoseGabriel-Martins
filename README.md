@@ -45,4 +45,4 @@ Projeto front-end inspirado no jogo Subway Surfers, utilizando HTML5 e CSS3 com 
 
 ### 📊 Linguagens Mais Utilizadas
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=JoseGabriel-Martins&layout=compact&theme=tokyonight&hide_border=true" alt="Linguagens Mais Utilizadas" />
+<img src="https://readme-stats-github.pages.dev/api/top-langs?username=JoseGabriel-Martins&layout=compact&theme=tokyonight" alt="Linguagens Mais Utilizadas" />
