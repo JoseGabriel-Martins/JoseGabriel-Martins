@@ -32,8 +32,8 @@ Estudante de Análise e Desenvolvimento de Sistemas (ADS) com foco em desenvolvi
 - 🚀 **[Sistema de Gerenciamento Bancário](https://github.com/JoseGabriel-Martins/Conta-bancaria)**  
 Aplicação desenvolvida em Java com foco em lógica de negócios bancários, manipulação de coleções e utilização da API Date/Time.
 
-- 🎮 **[Wiki Subway Surfers](https://github.com/JoseGabriel-Martins/site-subway-surfers)**  
-Projeto front-end inspirado no jogo Subway Surfers, utilizando HTML5 e CSS3 com foco em estruturação semântica e interface visual.
+-  🧶 [LBM Ateliê — Catálogo Digital](https://josegabriel-martins.github.io/lbm-handmade/) | [Código Fonte](https://github.com/JoseGabriel-Martins/lbm-handmade)
+  Landing page comercial e catálogo interativo para ateliê de artesanato em Portugal. Interface moderna, minimalista e 100% responsiva (Mobile-First), com suporte a internacionalização (PT/EN) e fluxo direto de conversão para pedidos via WhatsApp. Desenvolvido com foco em UX, tipografia e performance visual.
 
 ---
 
